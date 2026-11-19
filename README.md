@@ -59,7 +59,7 @@ To add VETO to a training loop of your own, see [Use VETO in your own code](#-us
 pip install -r requirements.txt
 ```
 
-Tested with Python 3.10, PyTorch 2.11, transformers 4.57.1, and peft 0.20.0 on one NVIDIA
+Tested with Python 3.10, PyTorch 2.11, Transformers 4.57.1, and PEFT 0.20.0 on one NVIDIA
 B200 per run. Setting `ATTN_IMPL=flash_attention_2` uses flash-attn when it is installed.
 
 ## 📦 Data
@@ -153,13 +153,13 @@ python tools/evaluate_backbones.py --family qwen3vl --model_path Qwen/Qwen3-VL-8
     --ckpt out/qwen3vl8b_veto_s<seed>/best.pt --data data/test.jsonl --out qwen3vl8b_veto_s<seed>.json
 ```
 
-Gemma 4 needs transformers 5.5 or later. Keep the default `ATTN_IMPL=sdpa` for Gemma 4 and Molmo2.
+Gemma 4 needs Transformers 5.5 or later. Keep the default `ATTN_IMPL=sdpa` for Gemma 4 and Molmo2.
 
 </details>
 
 ## 🔌 Use VETO in your own code
 
-VETO needs only a LoRA model from [peft](https://github.com/huggingface/peft) and two steps from
+VETO needs only a LoRA model from [PEFT](https://github.com/huggingface/peft) and two steps from
 `veto/subspace.py`, so it drops into any training loop.
 
 ```python
