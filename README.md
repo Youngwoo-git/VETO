@@ -200,7 +200,7 @@ veto/
 ├── requirements.txt
 ├── assets/                       figures of this README
 ├── scripts/
-│   └── run.sh                    all steps for one seed
+│   └── run.sh                    all steps for a single seed
 ├── tools/
 │   ├── make_ssv2_manifest.py     SSv2 labels to multiple-choice manifests
 │   ├── blind_filter.py           removal of items solvable from the text alone
