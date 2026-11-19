@@ -14,7 +14,7 @@ generalizes better with less shortcut dependency.</i>
 
 ## 📣 Update Logs
 
-- **Nov 19, 2026: 🚀 Code released! Calibration, VETO fine-tuning, and evaluation for seven VideoLLMs.**
+- 🚧 Code coming soon: calibration, VETO fine-tuning, and evaluation for seven VideoLLMs.
 
 ## 📝 Abstract
 
