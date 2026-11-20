@@ -20,6 +20,8 @@ generalizes better with less shortcut dependency.</i>
 
 ## 📣 Update Logs
 
+- Nov 20, 2026: 📄 Paper released!
+
 - 🚧 Code coming soon
 
 ## 📝 Abstract
