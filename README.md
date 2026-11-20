@@ -1,4 +1,4 @@
-# VETO: Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning
+# Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning
 
 <div align="center">
 
