@@ -1,5 +1,11 @@
 # VETO: Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning
 
+<div align="center">
+
+[![arXiv](https://img.shields.io/badge/arXiv-2611.25776-b31b1b.svg)](https://arxiv.org/abs/2611.25776)&nbsp;
+
+</div>
+
 <p align="center">
 <img src="assets/teaser.png" width=96%>
 </p>
@@ -229,6 +235,10 @@ If this project provided insights or was helpful to your research, please give u
       title={Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning},
       author={Youngwoo Shin and Jongsuk Kim and Junmo Kim},
       year={2026},
+      eprint={2611.25776},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2611.25776},
 }
 ```
 
