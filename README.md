@@ -20,9 +20,9 @@ generalizes better with less shortcut dependency.</i>
 
 ## 📣 Update Logs
 
-- Nov 20, 2026: 📄 Paper released!
+- Nov 20, 2026: 🚀 Code released!
 
-- 🚧 Code coming soon
+- Nov 20, 2026: 📄 Paper released!
 
 ## 📝 Abstract
 
